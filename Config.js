@@ -27,6 +27,6 @@ global.settings = {
     WELCOME_MESSAGE: "👋 Welcome to the group! We're glad to have you here. 😊",
     DELETE_WA_LINKS: false,
     BAD_WORD_FILTER: true,
-    BAD_WORDS: ['badword1', 'badword2', 'fuck', 'bitch', 'hentai'],
+    BAD_WORDS: ['badword1', 'badword2'],
     ANTI_DELETE_ENABLED: true // Add this line for anti-delete feature
 };
