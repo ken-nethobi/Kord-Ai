@@ -4,7 +4,7 @@ global.settings = {
   OWNER_NUMBERS: "2348037878873", // your number with country code
   OWNER_NAME: '𝙆𝙚𝙣𝙣𝙚𝙩𝙝', // your owner name 
   BOT_NAME: "𝙆𝙚𝙣𝙣𝙚𝙩𝙝", // your preferred bot name
-  SESSION_ID: 'kord_ai-6772adf0155fddbd6d66e6f1', // put your session id between the ''
+  SESSION_ID: 'kord_ai-wGQfyQLlMhfs', // put your session id between the ''
   INVINCIBLE_MODE: false, // toogle invincible mode 
   WORK_MODE: "Public",
   TIME_ZONE: "Africa/Lagos",
@@ -17,7 +17,7 @@ global.settings = {
   COMMAND_COOLDOWN_TIME_IN_MS: 0.01,
   MAX_COMMANDS_PER_MINUTE: 100,
   MAX_DOWNLOAD_SIZE: 100,
-  AUTO_LIKE_STATUS: true,
+  AUTO_LIKE_STATUS: false,
   AUTO_LIKE_EMOJI: '🍁',
   BANKING_DETAILS: {
     bank: "Kord-Ai Bank", // the name of your preferred bank
