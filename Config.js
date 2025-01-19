@@ -1,10 +1,10 @@
 // hey there, kindly read this file till the end for better configuration
 
 global.settings = {
-  OWNER_NUMBERS: "2349067339193", // your number with country code
-  OWNER_NAME: 'Miracle', // your owner name 
-  BOT_NAME: "KORD", // your preferred bot name
-  SESSION_ID: 'your_sessionid', // replace your_sessionid with yours and make sure its inside rhe quotes
+  OWNER_NUMBERS: "2348037878873", // your number with country code
+  OWNER_NAME: '𝙆𝙚𝙣𝙣𝙚𝙩𝙝', // your owner name 
+  BOT_NAME: "𝙆𝙚𝙣𝙣𝙚𝙩𝙝", // your preferred bot name
+  SESSION_ID: 'kord_ai-wGQfyQLlMhfs', // replace your_sessionid with yours and make sure its inside rhe quotes
   INVINCIBLE_MODE: false, // toogle invincible mode 
   WORK_MODE: "Public",
   TIME_ZONE: "Africa/Lagos",
@@ -12,13 +12,13 @@ global.settings = {
   READ_ALL_MESSAGES: false,
   AUTO_READ_STATUS: true,
   PREFIX: [".", "/", "!"],
-  GROUP_EVENTS: true,
+  GROUP_EVENTS: false,
   WELCOME_MESSAGE: "Hello! I'm KORD-AI, your friendly WhatsApp bot.",
   DEFAULT_TRANSLATION_LANG: "en",
   COMMAND_COOLDOWN_TIME_IN_MS: 0.01,
   MAX_COMMANDS_PER_MINUTE: 100,
   MAX_DOWNLOAD_SIZE: 100,
-  AUTO_LIKE_STATUS: true,
+  AUTO_LIKE_STATUS: false,
   AUTO_LIKE_EMOJI: '🍁',
   BANKING_DETAILS: {
     bank: "Kord-Ai Bank", // the name of your preferred bank
@@ -36,6 +36,6 @@ global.settings = {
   WELCOME_MESSAGE: "👋 Welcome to the group! We're glad to have you here. 😊",
   DELETE_WA_LINKS: false,
   BAD_WORD_FILTER: true,
-  BAD_WORDS: ['badword1', 'badword2', 'fuck', 'bitch', 'hentai'],
+  BAD_WORDS: ['badword1', 'badword2'],
   ANTI_DELETE_ENABLED: true,
 };
